@@ -1,0 +1,2 @@
+prompts/** text eol=lf
+evals/*.jsonl text eol=lf

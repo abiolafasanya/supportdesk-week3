@@ -1,0 +1,20 @@
+[project]
+name = "supportdesk"
+version = "0.3.0"
+description = "SupportDesk AI: Week 3 structured outputs demo (fictional data only)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.3.0",
+    "openai>=3.42.0",
+    "pydantic>=2.14.2",
+    "python-dotenv>=1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.uv]
+package = false

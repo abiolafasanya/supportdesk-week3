@@ -1,0 +1,7 @@
+[
+  {"id": "T-1001", "customer": "Ada (fictional)", "text": "I was charged twice for my March subscription. Please fix this."},
+  {"id": "T-1002", "customer": "Bayo (fictional)", "text": "The mobile app crashes every time I open the Reports tab."},
+  {"id": "T-1003", "customer": "Chen (fictional)", "text": "How do I change the email address on my account?"},
+  {"id": "T-1004", "customer": "Dami (fictional)", "text": "URGENT: none of our 40 agents can log in since 9am."},
+  {"id": "T-1005", "customer": "Eli (fictional)", "text": "Do you have a dark mode? Just curious."}
+]
